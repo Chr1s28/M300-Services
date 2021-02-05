@@ -1,1 +1,6 @@
 *.iso
+*.git
+*.svn
+*.hg
+*.vagrant
+*.DS_Store
